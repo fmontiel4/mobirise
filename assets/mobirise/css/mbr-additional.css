@@ -1760,7 +1760,7 @@ body {
   background-image: url("../../../assets/images/mbr-1-1618x1080.jpg");
 }
 .cid-qPvASv4Wkd SPAN {
-  color: #f7ed4a;
+  color: #f9f295;
 }
 .cid-qPANYqY3hr {
   padding-top: 60px;
@@ -1835,7 +1835,7 @@ body {
 .cid-qPC0q9A4IW {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #cebfaf;
+  background-color: #b2ccd2;
 }
 .cid-qPC0q9A4IW h2 {
   text-align: left;
@@ -1901,10 +1901,13 @@ body {
 .cid-qPC0q9A4IW P {
   color: #232323;
 }
+.cid-qPC0q9A4IW .mbr-text I {
+  color: #232323;
+}
 .cid-qPAQncp3sA {
   padding-top: 90px;
-  padding-bottom: 45px;
-  background-color: #cccccc;
+  padding-bottom: 105px;
+  background-image: url("../../../assets/images/mbr-1920x1080.jpg");
 }
 .cid-qPAQncp3sA h2 {
   text-align: left;
@@ -1962,12 +1965,18 @@ body {
   }
 }
 .cid-qPAQncp3sA H2 {
-  color: #4f4943;
+  color: #ffffff;
+}
+.cid-qPAQncp3sA H4 {
+  color: #ffffff;
+}
+.cid-qPAQncp3sA I {
+  color: #ffffff;
 }
 .cid-qPBV4tRAmh {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #efefef;
+  background-image: url("../../../assets/images/background2.jpg");
 }
 .cid-qPBV4tRAmh h2 {
   text-align: left;
@@ -2033,6 +2042,9 @@ body {
 .cid-qPBV4tRAmh B {
   color: #232323;
 }
+.cid-qPBV4tRAmh I {
+  color: #232323;
+}
 .cid-qPF8BR42xY {
   padding-top: 60px;
   padding-bottom: 15px;
@@ -2040,7 +2052,7 @@ body {
 }
 .cid-qPF8yvplLz {
   padding-top: 60px;
-  padding-bottom: 60px;
+  padding-bottom: 105px;
   background-color: #efefef;
 }
 .cid-qPF8yvplLz .counter-container {
@@ -2080,7 +2092,7 @@ body {
 .cid-qPFaWOVijc {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #cebfaf;
+  background-image: url("../../../assets/images/mbr-720x1080.jpg");
 }
 .cid-qPFaWOVijc h2 {
   text-align: left;
@@ -2138,10 +2150,13 @@ body {
   }
 }
 .cid-qPFaWOVijc P {
-  color: #232323;
+  color: #181818;
 }
 .cid-qPFaWOVijc .mbr-text {
   text-align: left;
+}
+.cid-qPFaWOVijc B {
+  color: #232323;
 }
 .cid-qPFbN2Ypqs {
   padding-top: 60px;
@@ -2149,6 +2164,9 @@ body {
   background-color: #f7ed4a;
 }
 .cid-qPFbN2Ypqs H2 {
+  color: #232323;
+}
+.cid-qPFbN2Ypqs .mbr-section-subtitle {
   color: #232323;
 }
 .cid-qPAUh3LTxZ {
